@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612808842 source:d:\1 - ufop\aeds\projeto tad\redessociais\main.c
+	<stdio.h>
+	<stdlib.h>
+	"redesocial.h"
+	"redesocial.c"
+
+1612808869 d:\1 - ufop\aeds\projeto tad\redessociais\redesocial.h
+
+1612808788 d:\1 - ufop\aeds\projeto tad\redessociais\redesocial.c
+	<stdlib.h>
+	<stdio.h>
+	"redesocial.h"
+
